@@ -1,0 +1,27 @@
+/* user agent resets */
+
+/* base style */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+
+/* Navbar Cart Icon */
+.icon-cart, .icon-cart-empty {
+  width: 48px;
+}
+
+/* Product Page */
+.product img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Home Landing Page */
+.product-item img {
+  max-width: 100%;
+  height: auto;
+}
